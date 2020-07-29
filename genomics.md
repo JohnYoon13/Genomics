@@ -3,7 +3,7 @@
 
 
 # Background
-![](https://github.com/JohnYoon13/Genomics/images/image1.png)
+![](https://github.com/JohnYoon13/Genomics/blob/master/images/image1.png)
 
 The focus of my project begins several thousands of years ago in Asia, when two ancestor strawberry genotypes repeatedly gave rise to several progeny strawberries. As seen in the map, these strawberries are located in the Northwest and Southwest parts of China, as well as in the Tibet region.
 
@@ -13,7 +13,7 @@ Big picture, the main goal of this endeavor was to estimate the sequence diverge
 
 
 # Motivations
-![](https://github.com/JohnYoon13/Genomics/blob/master/images/image2.png)
+![](https://github.com/JohnYoon13/Genomics/blob/master/images/image2.png)  
 By analyzing the divergence among the 15 strawberry genotypes, the pinnacle goal beyond even the scope of my contribution timeline to this project, is to reconstruct the entire evolutionary history of all strawberry species, which will not only increase knowledge of this group and understanding of its biological diversity, but could also be helpful in efforts to improve the cultivation of strawberries. Correctly identifying the diploid progenitors is important for understanding and predicting the responses of polyploid plants to climate change and associated environmental stress.
 
 
