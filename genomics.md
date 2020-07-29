@@ -20,11 +20,11 @@ By analyzing the divergence among the 15 strawberry genotypes, the pinnacle goal
 ![](https://github.com/JohnYoon13/Genomics/blob/master/images/image3.png)  
 The goal to estimate the sequence divergence between the progenitor diploids and their tetraploid descendants was structured with 3 main approaches: 
 
-The first approach consisted of my writing python scripts to filter out and process data sets involving Single Nucleotide Polymorphisms, or SNPs, which is a variation in a single base pair in a DNA sequence. The goal was to find SNPs where 3 nucleotides were represented, which can only occur in tetraploids, and we were interested in documenting how many of them exist. 
+1. The first approach consisted of my writing python scripts to filter out and process data sets involving Single Nucleotide Polymorphisms, or SNPs, which is a variation in a single base pair in a DNA sequence. The goal was to find SNPs where 3 nucleotides were represented, which can only occur in tetraploids, and we were interested in documenting how many of them exist. 
 
-The second approach centered around genome assembly, in which I took raw Illumina read data files and inputted them alongside a genomic software tool called Spades; Spades is one of a number of de novo assemblers that use short read sets as input, figure out how they overlap, and stitch them together to create a much longer sequence. We did this because the length of a polyploid genome assembly can be used as a measure of subgenome divergence. 
+2. The second approach centered around genome assembly, in which I took raw Illumina read data files and inputted them alongside a genomic software tool called Spades; Spades is one of a number of de novo assemblers that use short read sets as input, figure out how they overlap, and stitch them together to create a much longer sequence. We did this because the length of a polyploid genome assembly can be used as a measure of subgenome divergence. 
 
-The third and final approach involved using a genomic machine learning toolkit called Polycracker; We wanted to do this because the ML would attempt to classify our assembled scaffolds into 2 subgenomic pools corresponding to the diploid ancestors of the tetraploid.  
+3. The third and final approach involved using a genomic machine learning toolkit called Polycracker; We wanted to do this because the ML would attempt to classify our assembled scaffolds into 2 subgenomic pools corresponding to the diploid ancestors of the tetraploid.  
 
 
 # First Approach
