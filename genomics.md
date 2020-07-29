@@ -3,7 +3,7 @@
 
 
 # Background
-![](https://github.com/JohnYoon13/Genomics/images/image1.png)
+![](https://github.com/JohnYoon13/Genomics/images/image1.png)  
 The focus of my project begins several thousands of years ago in Asia, when two ancestor strawberry genotypes repeatedly gave rise to several progeny strawberries. As seen in the map, these strawberries are located in the Northwest and Southwest parts of China, as well as in the Tibet region.
 
 In particular, our research examined 15 of these descendant strawberry genotypes, whose tetraploid nature draws distinction with their two ancestors, which were diploid; in this context, the main difference between the diploid and tetraploid strawberries is the number of chromosomes per cell. Diploid plants have two sets of chromosomes per cell while tetraploids have four. As such, these 15 genotypes were the key points of our analysis. 
